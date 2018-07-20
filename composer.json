@@ -1,0 +1,11 @@
+{
+    "name": "administrator/role-rbac",
+    "description": "this is privilege role base access controller",
+    "authors": [
+        {
+            "name": "swonzhang",
+            "email": "zhangxw3813@gmail.com"
+        }
+    ],
+    "require": {}
+}
