@@ -13,6 +13,7 @@
     "keywords": [
     "swon"
     ],
+    "minimum-stability": "dev",
     "license": "MIT"
 
 }
