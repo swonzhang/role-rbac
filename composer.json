@@ -14,5 +14,5 @@
     "swon"
     ],
     "license": "MIT",
-    "minimum-stability": "dev-master"
+    // "minimum-stability": "dev-master"
 }
