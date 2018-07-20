@@ -1,5 +1,5 @@
 {
-    "name": "administrator/role-rbac",
+    "name": "swonzhang/role-rbac",
     "description": "this is privilege role base access controller",
     "authors": [
         {
