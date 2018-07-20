@@ -19,6 +19,5 @@
         "psr-0": {
             "Rolerbac": "src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
