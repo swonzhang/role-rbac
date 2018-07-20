@@ -1,6 +1,7 @@
 {
     "name": "swonzhang/role-rbac",
     "description": "this is privilege role base access controller",
+    "type": "library",
     "authors": [
         {
             "name": "swonzhang",
