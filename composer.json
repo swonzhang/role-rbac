@@ -16,8 +16,8 @@
     ],
     "license": "MIT",
     "autoload": {
-        "psr-0": {
-            "Rolerbac": "src"
+        "psr-4": {
+            "Rolerbac\\": "src"
         }
     }
 }
